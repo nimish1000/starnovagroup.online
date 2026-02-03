@@ -18,7 +18,7 @@ export const navigation = {
       { name: 'User Guide', href: '/user-guide' },
       { name: 'Troubleshooting', href: '/troubleshooting' },
       { name: 'Contact Us', href: '/contact' },
-      { name: 'support@obvix.online', href: 'mailto:support@obvix.online' },
+      { name: 'support@starnovagroup.online', href: 'mailto:support@starnovagroup.online' },
     ],
     resources: [
       { name: 'Recovery Success', href: '/recovery-success' },

@@ -11,7 +11,7 @@ export default function About() {
             
             <div className="text-center space-y-6">
               <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-text-primary">
-                About Obvix.Online
+                About Starnova Group.Online
               </h1>
               <p className="text-xl text-text-secondary">
                 Professional file recovery solutions you can trust.
@@ -22,7 +22,7 @@ export default function About() {
             <section className="space-y-6">
               <h2 className="text-2xl font-bold text-text-primary">Our Mission</h2>
               <p className="text-lg text-text-secondary leading-relaxed">
-                At Obvix.Online, we are dedicated to helping users recover their valuable data with ease and security. Our software is built with privacy and performance in mind, ensuring a safe recovery process for all your files.
+                At Starnova Group.Online, we are dedicated to helping users recover their valuable data with ease and security. Our software is built with privacy and performance in mind, ensuring a safe recovery process for all your files.
               </p>
             </section>
 

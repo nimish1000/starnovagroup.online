@@ -83,7 +83,7 @@ export default function Terms() {
             <section className="border-t border-border pt-8 mt-16">
                <h2 className="text-xl font-bold text-text-primary mb-4">Contact</h2>
                <p className="text-text-secondary">
-                  For any questions regarding these terms, please email <a href="mailto:support@obvix.online" className="text-brand hover:underline font-medium">support@obvix.online</a>.
+                  For any questions regarding these terms, please email <a href="mailto:support@starnovagroup.online" className="text-brand hover:underline font-medium">support@starnovagroup.online</a>.
                </p>
             </section>
 

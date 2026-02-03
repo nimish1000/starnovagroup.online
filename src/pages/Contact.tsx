@@ -72,7 +72,7 @@ export default function Contact() {
             
             {/* Email CTA */}
             <div className="text-center pt-8">
-               <a href="mailto:support@obvix.online" className="inline-flex items-center gap-2 bg-brand text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-brand-dark transition-colors">
+               <a href="mailto:support@starnovagroup.online" className="inline-flex items-center gap-2 bg-brand text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-brand-dark transition-colors">
                   <Mail className="w-5 h-5" /> Email Support
                </a>
             </div>

@@ -8,15 +8,15 @@ export function Navbar() {
   const { triggerDownload } = useDownload();
 
   return (
-    <nav className="sticky top-0 z-50 w-full border-b border-border/60 bg-background/80 backdrop-blur-md">
+    <nav className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur-md">
       <Container className="flex h-16 items-center justify-between">
         <Link
           to="/"
           className="flex items-center gap-0.5 select-none"
           onClick={() => window.scrollTo(0, 0)}
         >
-          <span className="text-xl font-extrabold tracking-tight text-brand-dark">Obvix</span>
-          <span className="text-xl font-medium tracking-tight text-text-muted">.Online</span>
+          <span className="text-xl font-extrabold tracking-tight text-brand-dark">Starnova</span>
+          <span className="text-xl font-medium tracking-tight text-text-muted">Group.Online</span>
         </Link>
 
         <div className="hidden md:flex md:gap-x-8">
