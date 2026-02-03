@@ -15,12 +15,12 @@ export default {
         "text-secondary": "#334155",
         "text-muted": "#64748B",
         brand: {
-          DEFAULT: "#1D4ED8",
-          hover: "#1E40AF",
-          light: "#DBEAFE",
-          accent: "#3B82F6",
-          "accent-hover": "#2563EB",
-          dark: "#0F172A",
+          DEFAULT: "#0EA5E9", // Bright cyan-blue for modern tech feel
+          hover: "#0284C7",
+          light: "#E0F2FE",
+          accent: "#06B6D4", // Teal accent
+          "accent-hover": "#0891B2",
+          dark: "#0C4A6E",
         },
       },
       fontFamily: {

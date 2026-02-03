@@ -67,7 +67,7 @@ export default function Disclaimer() {
             {/* 4. Contact */}
             <div className="border-t border-border pt-8 mt-16 text-center">
                <p className="text-text-secondary">
-                  Questions? Reach us at <a href="mailto:support@onkra.online" className="text-brand hover:underline font-medium">support@onkra.online</a>.
+                  Questions? Reach us at <a href="mailto:support@obvix.online" className="text-brand hover:underline font-medium">support@obvix.online</a>.
                </p>
             </div>
 

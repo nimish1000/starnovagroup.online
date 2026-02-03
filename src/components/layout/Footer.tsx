@@ -37,7 +37,7 @@ export function Footer() {
 
         <div className="mt-16 border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center gap-1">
-            <span className="text-sm font-extrabold text-text-primary">Onkra</span>
+            <span className="text-sm font-extrabold text-text-primary">Obvix</span>
             <span className="text-sm font-medium text-text-muted">.Online</span>
             <span className="text-xs text-text-muted ml-3">&copy; {new Date().getFullYear()} All rights reserved.</span>
           </div>

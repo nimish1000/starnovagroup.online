@@ -59,7 +59,7 @@ export function Hero() {
                     <div className="w-3 h-3 rounded-full bg-red-400/60"></div>
                     <div className="w-3 h-3 rounded-full bg-yellow-400/60"></div>
                     <div className="w-3 h-3 rounded-full bg-green-400/60"></div>
-                    <span className="ml-4 text-xs text-text-muted font-medium tracking-wide">Onkra Recovery Engine</span>
+                    <span className="ml-4 text-xs text-text-muted font-medium tracking-wide">Obvix Recovery Engine</span>
                 </div>
                 <div className="flex-1 p-8">
                    <div className="flex justify-between items-center mb-6">

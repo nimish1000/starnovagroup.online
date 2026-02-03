@@ -15,7 +15,7 @@ export function Navbar() {
           className="flex items-center gap-0.5 select-none"
           onClick={() => window.scrollTo(0, 0)}
         >
-          <span className="text-xl font-extrabold tracking-tight text-brand-dark">Onkra</span>
+          <span className="text-xl font-extrabold tracking-tight text-brand-dark">Obvix</span>
           <span className="text-xl font-medium tracking-tight text-text-muted">.Online</span>
         </Link>
 

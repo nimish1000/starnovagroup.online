@@ -83,7 +83,7 @@ export default function Privacy() {
             <section className="border-t border-border pt-8 mt-16">
                <h2 className="text-xl font-bold text-text-primary mb-4">Questions about this policy?</h2>
                <p className="text-text-secondary">
-                  If you have any questions about our privacy practices, please contact us at <a href="mailto:support@onkra.online" className="text-brand hover:underline font-medium">support@onkra.online</a>.
+                  If you have any questions about our privacy practices, please contact us at <a href="mailto:support@obvix.online" className="text-brand hover:underline font-medium">support@obvix.online</a>.
                </p>
             </section>
 
